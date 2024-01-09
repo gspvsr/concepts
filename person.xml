@@ -1,0 +1,11 @@
+<Person>
+    <Name>Santh Prakash</Name>
+    <DOB>21-10-1983</DOB>
+    <City>Karimnagar</City>
+    <Address>
+        <PermAddress>
+            <country>India</country>
+            <city>KNR</city>
+        <PermAddress/>
+    <Address>
+</Person>
